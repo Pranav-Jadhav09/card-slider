@@ -4,11 +4,11 @@
 
 ### Card Slider
 
-✓ Built Using HTML CSS & Javapt
-✓ Contains beautiful cards in dark mode and 3D images,
-✓ Slider images with Swiper JS
-✓ Developed with Mobile-First Approach
-✓ Compatible with all mobile dvices.
+✓ Built Using HTML CSS & Javascript <br />
+✓ Contains beautiful cards in dark mode and 3D images <br />
+✓ Slider images with Swiper JS <br />
+✓ Developed with Mobile-First Approach <br />
+✓ Compatible with all mobile dvices <br />
 
 ### LICENSE
 
